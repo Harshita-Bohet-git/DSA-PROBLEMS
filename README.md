@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Bit Manipulation
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
