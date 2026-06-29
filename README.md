@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harshita-Bohet-git/DSA-PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
