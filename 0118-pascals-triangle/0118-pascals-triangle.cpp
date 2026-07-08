@@ -1,17 +1,27 @@
 class Solution {
-public:
-    vector<vector<int>> generate(int numRows) {
-        if (numRows == 0) return {};
-        if (numRows == 1) return {{1}};
-        
-        vector<vector<int>> prevRows = generate(numRows - 1);
-        vector<int> newRow(numRows, 1);
-        
-        for (int i = 1; i < numRows - 1; i++) {
-            newRow[i] = prevRows.back()[i - 1] + prevRows.back()[i];
+
+private :
+    vector<int>gatherRow(int numRows){
+        long long ans = 1; 
+        vector<int>ans2;
+        ans2.push_back(1);
+        for(int i = 1 ; i < numRows ; i++){
+            ans = ans*(numRows-i);
+            ans = ans/i;
+            ans2.push_back(ans);
         }
-        
-        prevRows.push_back(newRow);
-        return prevRows;
+        return ans2;
+    }
+public:
+
+    vector<vector<int>> generate(int numRows) {
+    
+        vector<vector<int>>ans1;
+        for(int col = 1; col <= numRows ; col++){
+            ans1.push_back(gatherRow(col));
+
+        }
+        return ans1;
+
     }
 };
