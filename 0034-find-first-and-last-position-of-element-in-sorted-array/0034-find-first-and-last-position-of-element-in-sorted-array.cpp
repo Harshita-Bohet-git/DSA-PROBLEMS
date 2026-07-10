@@ -45,6 +45,7 @@ int lastOcc(vector<int>& nums, int target){
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int a = firstOCC(nums,target);
+        if(a==-1)return {-1,-1};
         int b = lastOcc(nums, target);
         return {a,b};
     }
