@@ -22,7 +22,10 @@ public:
 
             }
             else{
-                if(target>nums[mid] && target <=nums[high]){
+                if(target == nums[high]){
+                    return high;
+                }
+                if(target>nums[mid] && target <nums[high]){
                     low = mid+1;
                 }
                 else{
