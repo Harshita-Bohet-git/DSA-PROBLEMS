@@ -1,9 +1,9 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int mini = nums[0];
-        int maxi = nums[nums.size()-1];
+        int mini = *min_element(nums.begin(),nums.end());
+        int maxi = *max_element(nums.begin(),nums.end());
         return gcd(mini,maxi);
+        
     }
 };
